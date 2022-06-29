@@ -1,2 +1,5 @@
 # server
 gun-server/node_modules
+
+#client
+gun-client/node_modules
